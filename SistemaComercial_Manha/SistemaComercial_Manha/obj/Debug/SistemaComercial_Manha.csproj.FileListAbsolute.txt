@@ -1,0 +1,52 @@
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe.config
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.pdb
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csprojResolveAssemblyReference.cache
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmSistemaComercial.resources
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.Properties.Resources.resources
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.GenerateResource.Cache
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.exe
+c:\users\kleber\documents\visual studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.pdb
+C:\Users\Kleber\Documents\Visual Studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmPrincipal.resources
+C:\Users\Kleber\Documents\Visual Studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmProduto.resources
+C:\Users\Kleber\Documents\Visual Studio 2012\Projects\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\MySql.Data.DLL
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe.config
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.exe
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.pdb
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.pdb
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csprojResolveAssemblyReference.cache
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmSistemaComercial.resources
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmPrincipal.resources
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmProduto.resources
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.Properties.Resources.resources
+C:\Users\fbh.1299122213\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.GenerateResource.Cache
+E:\2º semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe.config
+E:\2º semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.exe
+E:\2º semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.pdb
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe.config
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.pdb
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csprojAssemblyReference.cache
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmSistemaComercial.resources
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmPrincipal.resources
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmProduto.resources
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.Properties.Resources.resources
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.GenerateResource.cache
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.CoreCompileInputs.cache
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.CopyComplete
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.exe
+I:\2º_semestre2015\c#\Sistema_completo\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.pdb
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe.config
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.exe
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\bin\Debug\SistemaComercial_Manha.pdb
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmSistemaComercial.resources
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmPrincipal.resources
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.frmProduto.resources
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.Properties.Resources.resources
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.GenerateResource.Cache
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.exe
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.pdb
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csprojAssemblyReference.cache
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Desktop\SistemaComercial_Manha\SistemaComercial_Manha\obj\Debug\SistemaComercial_Manha.csproj.CopyComplete
